@@ -2,4 +2,4 @@
 
 Analysis of White House intern data.  
 
-Main presentation given in WH_interns.ipynb.
+Main presentation contained in <a href="http://nbviewer.ipython.org/github/arhee/whitehouse_interns/blob/master/WH_interns.ipynb">WH_interns.ipynb</a>
