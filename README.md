@@ -1,4 +1,4 @@
-# whitehouse_interns (under construction)
+# whitehouse_interns
 
 Analysis of White House intern data.  
 
